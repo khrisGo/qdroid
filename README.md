@@ -35,7 +35,7 @@ QCM Technique Android
 [ ] Avoir des classes de même nom dans un programme entier.
 [ ] Pouvoir implémenter le pattern Abstract Factory facilement.
 [ ] Faciliter l’obfuscation du code des classes issues du même namespace.
-[ ] Pouvoir rendre privé une méthode ou attribut d’une classe d’une bibliothèque à un utilisateur sans que cela le soit dans le package.
+[ ] Cacher une méthode ou une propriété d'une classe en dehors de son package
 
 6) Quand est ce qu’est appelée la méthode finalize() d’une classe Java?
 [ ] Juste après l’appel du constructeur de la classe.
@@ -110,13 +110,13 @@ Partie Android 1/5
 [ ] Une surclasse de ImageViewSwitcher
 
 (level 2/5)
-17) C’est quoi un fragment
+17) Qu'est-ce qu'un fragment ? 
 [ ] Une popup sur une activity
 [ ] Un morceau d’interface utilisateur rattaché à une activity.
 [ ] Un morceau de base de donnée SQLite
 [ ] Une vue externalisé d’un layout vers un layout « standalone »
 
-18) Ou se declare la sous classe de la classe Application :
+18) Où se declare la sous classe de la classe Application :
 [ ] Dans l’attribut name de la balise application du fichier AndroidManifest.xml
 [ ] Dans l’attribut application de la main activity du fichier AndroidManifest.xml
 [ ] Dans l’attibut applicationClassName de la main activity du fichier AndroidManifest.xml
@@ -153,10 +153,10 @@ Partie Android 1/5
 [ ] ViewGroup
 [ ] ImageView
 
-24) Par combien je dois diviser la taille de mon image xxhdpi pour qu’elle puisse être au format hdpi :
-[ ] 4
-[ ] 3
+24) Quel est le ratio à appliquer à une ressource xxhdpi pour la passer au format hdpi. 
 [ ] 2
+[ ] 0.75
+[ ] 0.5
 [ ] 1.5
 
 
@@ -166,7 +166,7 @@ Partie Android 1/5
 [ ] ListView ne propose pas de mecanisme de reutilisation de view
 [ ] RecyclerView ne permet pas nativement de faire des templates pour des headers et footers de liste.
 
-26) Parmis ces widget graphiques, lesquel n’est pas issu de material design :
+26) Parmis ces composants graphiques, lesquel n’est pas issu d'une support library  :
 [ ] NestedScrollView
 [ ] CoordinatorLayout
 [ ] RecyclerView
@@ -209,11 +209,11 @@ Partie Android 1/5
 [ ] le service peut démarrer une lancer une intent implicite
 [ ] le service peut notifier par listener au composant qui l’ecoute
 
-33) Cherchez l’intrus parmi les quatre propositions:
-[ ] Volley
-[ ] Loopj-http-async
-[ ] Picasso
-[ ] EventBus
+33) Quel language de script est utilisé par Gradle afin de décrire les tâches de build d'une application ?
+[ ] Gradlew
+[ ] Python
+[ ] Groovy
+[ ] Kotlin
 
 34) Parmis ces 4 outils, lequel ne fait pas partie du sdk Android
 [ ] ddms
@@ -235,7 +235,7 @@ Partie Android 1/5
 [ ] En utilisation les API Looper 
 [ ] En utilisant les API Handler
 
-37) C’est quoi InstantRun ?
+37) Qu'est-ce qu'InstantRun ?
 [ ] L’api Android6 qui permet de lancer une activity plus rapidement(cycle de vie de l’activity raccourci)
 [ ] Une fonctionnalité d’Android studio 2.0 qui permet d’eviter la recompilation d’une app si seul le code de la vue a été modifiée
 [ ] L’API Android 6.0 qui permet d’envoye des notifications instantanées a n’importe quel activity
@@ -253,8 +253,8 @@ Partie Android 1/5
 [ ] EventBus
 [ ] okhttp
 
-40) Quelle est la killer feature qui a deja fuitée sur Android N ?
-[ ] Des API pour le mode multifenetrée
-[ ] Des API pour la realité virtuelle
-[ ] Des API pour les objets connecté
-[ ] Des API pour la réception de la force tactile (comme l’iphone 6S)
+40) Citez l'intrus
+[ ] Jake Wharton
+[ ] Chet Haase
+[ ] Chris Banes
+[ ] Romain Guy
