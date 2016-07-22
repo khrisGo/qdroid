@@ -4,8 +4,8 @@ qdroid
 QCM Technique Android  
 =====================  
   
-1ère Partie Connaissance Java  
------------------------------  
+1ère Partie - Connaissances Java  
+--------------------------------  
   
 ### Level 1/5 ###
   
@@ -76,8 +76,8 @@ QCM Technique Android
 [ ] existera en java9 et sera porté dans Android Open Source Project via OpenJDK.    
   
   
-Partie Android 1/5  
-------------------  
+2ème Partie - Connaissances Android  
+-----------------------------------  
   
 ### Level 1/5 ###
   
