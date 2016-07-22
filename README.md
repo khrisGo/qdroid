@@ -192,7 +192,7 @@ Partie Android 1/5
 [ ] .jar  
 [ ] .aar  
   
-###Level 4/5 ### 
+###Level 4/5 ###
 29) Quel(s) composant(s) graphiques peuvent affichés en dehors de l’application (lorsqu’elle est en background)  
 [ ] Toast  
 [ ] AlertDialog  
@@ -230,7 +230,7 @@ Partie Android 1/5
 [ ] draw9patch  
   
   
-###Level 5/5 ### 
+###Level 5/5 ###
 35) Qu’est ce qu’un Looper  
 [ ] L’implementation du design pattern Iterator pour les thread en queue  
 [ ] Une boucle de message dans un thread  
