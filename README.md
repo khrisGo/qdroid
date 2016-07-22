@@ -7,7 +7,7 @@ QCM Technique Android
 1ère Partie Connaissance Java  
 -----------------------------  
   
-### Level 1/5 ###  
+### Level 1/5 ###
   
 1) Parmi les propositions si dessous quels sont les « modifiers » de visibilité d’une classe Java:    
 [ ]Protected    
@@ -21,7 +21,7 @@ QCM Technique Android
 [ ] try    
 [ ] finally    
   
-### Level 2/5 ###  
+### Level 2/5 ###
 3) Soit la méthode public void operation(int a, int b), la(les)quelle(s) méthodes ne sont pas des méthodes polymorphiques de celle proposée.    
 [ ] public int operation(int a)    
 [ ] public String operation(int a)    
@@ -35,7 +35,7 @@ QCM Technique Android
 [ ] Empêcher une variable d’être collectée par Garbarge Collector.    
   
   
-### Level 3/5 ###  
+### Level 3/5 ###
 5) Quel est le principal avantage des namespaces (package) hormis le fait de regrouper des fonctionnalités en module    
 [ ] Avoir des classes de même nom dans un programme entier.    
 [ ] Pouvoir implémenter le pattern Abstract Factory facilement.    
@@ -48,7 +48,7 @@ QCM Technique Android
 [ ] Juste avant que le Garbage collector collecte la mémoire de la classe.    
 [ ] Juste après que le Garbage collector collecte la mémoire de la classe.    
   
-### Level 4/5 ###  
+### Level 4/5 ###
 7) Qu’est ce que l’intercession en Java :    
 [ ] La capacité d'un programme à examiner son propre état    
 [ ] La capacité d'un programme à modifier son propre état d'exécution ou d'altérer sa propre interprétation ou signification    
@@ -62,7 +62,7 @@ QCM Technique Android
 [ ] sert à déclarer une variable comme  n’étant pas sérializable    
   
   
-### Level 5/5 ###  
+### Level 5/5 ###
 9) Une weakHashedMap :    
 [ ] est thread-safe    
 [ ] implemente pas l’interface Map    
@@ -79,7 +79,7 @@ QCM Technique Android
 Partie Android 1/5  
 ------------------  
   
-### Level 1/5 ###  
+### Level 1/5 ###
   
 11) Qu’est qu’une Activity ?    
 [ ] Le model d’une vue    
@@ -117,7 +117,7 @@ Partie Android 1/5
 [ ] Une surclasse de ButtonSwitcher    
 [ ] Une surclasse de ImageViewSwitcher    
   
-### Level 2/5 ###  
+### Level 2/5 ###
 17) Qu'est-ce qu'un fragment ?    
 [ ] Une popup sur une activity    
 [ ] Un morceau d’interface utilisateur rattaché à une activity.    
@@ -154,7 +154,7 @@ Partie Android 1/5
 [ ] Le composant entité d’une table SQLLite du model dans le pattern ideal MVC  
 [ ] Le composant issu du model à adapter en fonction d’une cardview, listView ou listActivity    
   
-### Level 3/5 ###  
+### Level 3/5 ###
 23) De quelle composant hérite directement une CardView :  
 [ ] Framelayout  
 [ ] RelativeLayout  
@@ -192,7 +192,7 @@ Partie Android 1/5
 [ ] .jar  
 [ ] .aar  
   
-###  Level 4/5 ###   
+###Level 4/5 ### 
 29) Quel(s) composant(s) graphiques peuvent affichés en dehors de l’application (lorsqu’elle est en background)  
 [ ] Toast  
 [ ] AlertDialog  
@@ -230,7 +230,7 @@ Partie Android 1/5
 [ ] draw9patch  
   
   
-###  Level 5/5 ###   
+###Level 5/5 ### 
 35) Qu’est ce qu’un Looper  
 [ ] L’implementation du design pattern Iterator pour les thread en queue  
 [ ] Une boucle de message dans un thread  
